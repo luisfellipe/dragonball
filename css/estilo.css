@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+.footer{
+	
+}
+#esfera-area{
+	height: 10em;
+	margin: auto;
+	margin-top: 2em;
+}
+
+
+.text-red{
+	color: #F20026;
+}
+.bg-red{
+	background-color: #F20026;
+}
+.bg-dark-sublime{
+	background-color: #282923;
+}
+
+#z-icon{
+	width: 5em;
+	height: 5em;
+
+}
+/*espaço vertical*/
+.sv{
+	height: 8em;
+}
+
+img[id='logo']{
+	width: 13em; 
+	height: 5em;
+}
+img[id='logo']:hover{
+	background-color: #282923;
+}
+
+.pos{
+	margin: auto;
+}
+footer[id=rodape]{
+	margin: 0;
+	height: 20em;
+}
+
+div[id=footer-icon]{
+	margin: auto;
+}
+
+div[id=z-icon-div]{
+	margin-left: 2em;
+}
+
+
+a:hover{
+	background-color: black;
+}
+div[id=esfera-area] a:hover{
+	background-color: #F20026;
+}
