@@ -34,10 +34,6 @@ img[id='logo']{
 	width: 13em; 
 	height: 5em;
 }
-img[id='logo']:hover{
-	background-color: #282923;
-}
-
 .pos{
 	margin: auto;
 }
@@ -54,10 +50,6 @@ div[id=z-icon-div]{
 	margin-left: 2em;
 }
 
-
-a:hover{
-	background-color: black;
-}
 div[id=esfera-area] a:hover{
 	background-color: #F20026;
 }
